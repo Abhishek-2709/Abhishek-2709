@@ -28,11 +28,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building tec
 - Machine learning and computer vision-based vehicle identification.
 - [View Project](https://github.com/Abhishek-2709/AUTOMATED-VEHICLE-IDENTIFICATION-USING-ML)
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-2709&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-2709&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
 - GitHub: [Abhishek-2709](https://github.com/Abhishek-2709)
